@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Srivastava</h1>
-<h3 align="center">A passionate full-stack developer from India who is currently in his sophomore year at SRM KTR UNIVERSITY pursuing B.Tech Computer Science and Engineering.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer with expertise in HTML, CSS, JavaScript, Node.js, and React. I love building dynamic, user-friendly applications that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshsrivastava49&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsrivastava49" /> </p>
 
