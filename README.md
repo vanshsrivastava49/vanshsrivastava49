@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CampusBuzz](https://campusbuzz.vercel.app/)
 
-- 🌱 I’m currently learning **Node.js, React.js, Flutter**
+- 🌱 I’m currently learning **Node.js, React.js, LLM**
 
 - 👯 I’m looking to collaborate on **open-source projects or web development projects.**
 
