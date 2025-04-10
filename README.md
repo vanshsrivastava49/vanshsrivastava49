@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [CampusBuzz](https://campusbuzz.vercel.app/)
 
-- 🌱 I’m currently learning **Node.js, React.js, LLM**
-
 - 👯 I’m looking to collaborate on **open-source projects or web development projects.**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/vansh-srivastavas-projects](https://vercel.com/vansh-srivastavas-projects)
