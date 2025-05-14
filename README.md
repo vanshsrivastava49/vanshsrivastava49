@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/vansh-srivastavas-projects](https://vercel.com/vansh-srivastavas-projects)
 
-- 💬 Ask me about **react, node, dsa, css, html and javascript**
-
 - 📫 How to reach me **srivastavavansh11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VASxhSRq00XAY51ueoPk8QXL3wXaSR_8/view?usp=sharing](https://drive.google.com/file/d/1VASxhSRq00XAY51ueoPk8QXL3wXaSR_8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sln8RpeXgQt6o6x2-YjIuVmsdyuRGNZc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
