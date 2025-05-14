@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Srivastava</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer with expertise in HTML, CSS, JavaScript, Node.js, and React. I love building dynamic, user-friendly applications that solve real-world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshsrivastava49&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsrivastava49" /> </p>
-
 <p align="left"> <a href="https://twitter.com/vansh_49" target="blank"><img src="https://img.shields.io/twitter/follow/vansh_49?logo=twitter&style=for-the-badge" alt="vansh_49" /></a> </p>
 
 - 🔭 I’m currently working on [CampusBuzz](https://campusbuzz.vercel.app/)
