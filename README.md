@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vansh_49" target="blank"><img src="https://img.shields.io/twitter/follow/vansh_49?logo=twitter&style=for-the-badge" alt="vansh_49" /></a> </p>
 
-- 🔭 I’m currently working on [CampusBuzz](https://campusbuzz.vercel.app/)
+- 🔭 I’m currently working on [UniHub](https://github.com/vanshsrivastava49/UniHub)
 
 - 👯 I’m looking to collaborate on **open-source projects or web development projects.**
 
