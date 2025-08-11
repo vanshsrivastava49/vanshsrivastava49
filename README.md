@@ -17,7 +17,7 @@
 - Currently building an awesome project called [**Block Coding**](https://github.com/RatnaTiwari04/Block_code_editor) — a block-based code editor for faster and easier programming.
 
 ## 🤝 Let's Collaborate
-- Open to collaborate on exciting **open-source projects** or any **web development challenges**.  
+- Open to collaborate on exciting **open-source projects**.
 - Check out all my projects at: [vansh-srivastavas-projects](https://vercel.com/vansh-srivastavas-projects)
 
 ## 📫 How to Reach Me
