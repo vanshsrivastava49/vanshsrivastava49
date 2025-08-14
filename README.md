@@ -25,7 +25,7 @@
 - Connect with me on [LinkedIn](https://linkedin.com/in/vansh-srivastava49) | [Instagram](https://instagram.com/vanshsrivastava49) | [Twitter](https://twitter.com/vansh_49)
 
 ## 📄 Resume
-- Want to know more about my professional journey? [Download my Resume](https://drive.google.com/file/d/1V2yHHZKqFV172U1INhxa6TmqSlCnwog6/view?usp=sharing)
+- Want to know more about my professional journey? [Resume](https://drive.google.com/file/d/1DNivxolUXm_-ipV_ZOdHIhAzwkJJiwfR/view?usp=sharing)
 
 ---
 
