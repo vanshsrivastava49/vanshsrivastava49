@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Vansh Srivastava</h1>
 
 <p align="center">
-  <em>A passionate <strong>Full Stack Developer</strong> 🚀 specializing in the MERN stack.</em><br/>
+  <em>A passionate <strong>Full Stack Developer</strong> specializing in the MERN stack.</em><br/>
   I love crafting dynamic, user-friendly applications that solve real-world problems.
 </p>
 
@@ -13,18 +13,18 @@
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 - Currently building an awesome project called [**Block Coding**](https://github.com/RatnaTiwari04/Block_code_editor) — a block-based code editor for faster and easier programming.
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 - Open to collaborate on exciting **open-source projects**.
 - Check out all my projects at: [vansh-srivastavas-projects](https://vercel.com/vansh-srivastavas-projects)
 
-## 📫 How to Reach Me
+## How to Reach Me
 - Shoot me an email at **srivastavavansh11@gmail.com**  
 - Connect with me on [LinkedIn](https://linkedin.com/in/vansh-srivastava49) | [Instagram](https://instagram.com/vanshsrivastava49) | [Twitter](https://twitter.com/vansh_49)
 
-## 📄 Resume
+## Resume
 - Want to know more about my professional journey? [Resume](https://drive.google.com/file/d/1uqfL6iARrD1GySGDHVDC5ip6OtF1Kdzh/view?usp=sharing)
 
 ---
