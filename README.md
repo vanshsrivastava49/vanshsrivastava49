@@ -14,7 +14,7 @@
 ---
 
 ## What I'm Working On
-- Currently building an awesome project called [**Block Coding**](https://github.com/RatnaTiwari04/Block_code_editor) — a block-based code editor for faster and easier programming.
+- Currently building an awesome project called [**Brand Genius**](https://github.com/vanshsrivastava49/BrandGenius) — a block-based code editor for faster and easier programming.
 
 ## Let's Collaborate
 - Open to collaborate on exciting **open-source projects**.
