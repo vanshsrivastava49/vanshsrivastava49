@@ -14,7 +14,7 @@
 ---
 
 ## What I'm Working On
-- Currently building an awesome project called [**Brand Genius**](https://github.com/vanshsrivastava49/BrandGenius) — a block-based code editor for faster and easier programming.
+- Currently building an awesome project called [**Brand Genius**](https://github.com/vanshsrivastava49/BrandGenius) — an AI-based Social Media Brand Montoring System.
 
 ## Let's Collaborate
 - Open to collaborate on exciting **open-source projects**.
