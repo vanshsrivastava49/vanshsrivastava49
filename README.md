@@ -34,10 +34,6 @@
         <li>🤝 Open to collaborating on open-source projects and innovative tech solutions.</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center" style="border: none;">
-      <h3>🏆 GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=vanshsrivastava49&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=3" alt="Trophies" />
-    </td>
   </tr>
 </table>
 
