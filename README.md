@@ -56,8 +56,6 @@
   <table border="0" style="border: none; background: transparent;">
     <tr>
       <td style="border: none; background: transparent;">
-      </td>
-      <td style="border: none; background: transparent;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsrivastava49&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" />
       </td>
     </tr>
