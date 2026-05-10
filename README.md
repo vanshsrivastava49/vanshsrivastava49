@@ -56,7 +56,6 @@
   <table border="0" style="border: none; background: transparent;">
     <tr>
       <td style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vanshsrivastava49&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=3B82F6" alt="GitHub Stats" />
       </td>
       <td style="border: none; background: transparent;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsrivastava49&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" />
@@ -64,7 +63,6 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshsrivastava49&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
