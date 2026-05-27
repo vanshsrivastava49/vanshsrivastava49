@@ -25,13 +25,12 @@
 <table align="center" border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td width="60%" valign="top" style="border: none;">
-      <h3>👨‍💻 About Me</h3>
+      <h3>About Me</h3>
       <ul>
-        <li>🔭 Currently building <strong><a href="https://github.com/vanshsrivastava49/BrandGenius">Brand Genius</a></strong> (AI Social Media Brand Monitoring) and <strong>GreenJobs</strong> (a dedicated portal for the sustainability sector).</li>
-        <li>🚀 Actively developing <strong>ParkLink</strong>, an IoT-based smart parking system for campuses, alongside a machine-learning price recommendation engine.</li>
-        <li>🌱 Preparing for SWE internship opportunities by deep-diving into <strong>Advanced DSA & OOP in C++</strong>.</li>
-        <li>🎨 Honing my software prototyping skills with tools like <strong>Figma</strong> to craft better UI/UX layouts.</li>
-        <li>🤝 Open to collaborating on open-source projects and innovative tech solutions.</li>
+        <li>Currently building <strong>GreenJobs</strong> (a dedicated portal for the sustainability sector).</li>
+        <li>Preparing for SWE internship opportunities by deep-diving into <strong>Advanced DSA & OOP in C++</strong>.</li>
+        <li>Honing my software prototyping skills with tools like <strong>Figma</strong> to craft better UI/UX layouts.</li>
+        <li>Open to collaborating on open-source projects and innovative tech solutions.</li>
       </ul>
     </td>
   </tr>
