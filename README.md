@@ -65,5 +65,4 @@
 
 <div align="center">
   <em>Thanks for stopping by! Feel free to reach out and say hi. Happy coding! 💻✨</em><br/><br/>
-  <a href="https://vercel.com/vansh-srivastavas-projects" target="_blank"><img src="https://img.shields.io/badge/View_My_Live_Deployments-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </div>
