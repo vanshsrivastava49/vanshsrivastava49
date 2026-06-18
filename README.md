@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hi,%20I'm%20Vansh!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+IoT+Innovator;Aspiring+Software+Engineer;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+IoT+Innovator;Aspiring+Software+Engineer;Always+Learning+and+Building" alt="Typing SVG" />
 
   <p align="center">
     <em>A passionate <strong>Full Stack Developer</strong> crafting dynamic, user-friendly applications that solve real-world problems.</em>
