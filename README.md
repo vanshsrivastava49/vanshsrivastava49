@@ -25,7 +25,6 @@
       <ul>
         <li>Currently building <strong>GreenJobs</strong> (a dedicated job portal for the sustainability sector).</li>
         <li>Preparing for SWE internship & job opportunities by deep-diving into <strong>Advanced DSA & OOP in C++</strong>.</li>
-        <li>Honing my software prototyping skills with tools like <strong>Figma</strong> to craft better UI/UX layouts.</li>
         <li>Open to collaborating on open-source projects and innovative tech solutions.</li>
       </ul>
     </td>
